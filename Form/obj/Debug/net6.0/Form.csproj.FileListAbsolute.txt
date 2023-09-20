@@ -1,0 +1,14 @@
+C:\Users\shrah\source\repos\Form\Form\bin\Debug\net6.0\Form.exe
+C:\Users\shrah\source\repos\Form\Form\bin\Debug\net6.0\Form.deps.json
+C:\Users\shrah\source\repos\Form\Form\bin\Debug\net6.0\Form.runtimeconfig.json
+C:\Users\shrah\source\repos\Form\Form\bin\Debug\net6.0\Form.dll
+C:\Users\shrah\source\repos\Form\Form\bin\Debug\net6.0\Form.pdb
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.AssemblyInfo.cs
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.dll
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\refint\Form.dll
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.pdb
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\Form.genruntimeconfig.cache
+C:\Users\shrah\source\repos\Form\Form\obj\Debug\net6.0\ref\Form.dll
